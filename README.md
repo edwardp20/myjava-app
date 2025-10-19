@@ -29,3 +29,10 @@ mvn test
 - OOP examples
 - Maven configuration
 - JUnit tests
+## About archive fold
+Because the JAVA files in this project are separate, in order to save performance, those JAVA files that are temporarily not needed are placed in the archive folder
+But if you want to compile and run, the JAVA files in the archive folder can execute the following commands
+```bash
+cd archive && mv The-Java-file-you-need.java ../src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
+```
+
