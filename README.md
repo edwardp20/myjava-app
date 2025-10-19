@@ -25,8 +25,7 @@ mvn package
 mvn test
 ```
 ## Features
-
-· Basic Java syntax
-· OOP examples
-· Maven configuration
-· JUnit tests
+- Basic Java syntax
+- OOP examples
+- Maven configuration
+- JUnit tests
