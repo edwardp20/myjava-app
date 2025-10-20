@@ -1,9 +1,12 @@
 # myjava-app
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Overview
 This is a small project I created while learning Java programming.
 
 > **Note**: This is primarily a personal learning repository. The code here might be simplistic or experimental. Feel free to borrow any parts useful for your own learning.
+>**Attention**
+>This project uses GPLv3 license to distribute source code, please keep the software always free
 
 
 ## Requirements
