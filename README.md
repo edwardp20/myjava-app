@@ -38,7 +38,7 @@ mvn test
 ## Main Class & Package name
 ### Main Class
 Attention,The main class of this project is App.class.Normally, please do not move it out of the src folder.
-###Package name
+### Package name
 The package name for this project is com.myjava.app
 ```java
 package com.myjava.app
