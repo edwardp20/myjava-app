@@ -5,8 +5,10 @@
 This is a small project I created while learning Java programming.
 
 > **Note**: This is primarily a personal learning repository. The code here might be simplistic or experimental. Feel free to borrow any parts useful for your own learning.
->**Attention**
->This project uses GPLv3 license to distribute source code, please keep the software always free
+
+
+
+>**Attention**: This project uses GPLv3 license to distribute source code, please keep the software always free
 
 
 ## Requirements
