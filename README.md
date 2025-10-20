@@ -34,6 +34,16 @@ mvn test
 - OOP examples
 - Maven configuration
 - JUnit tests
+
+## Main Class & Package name
+### Main Class
+Attention,The main class of this project is App.class.Normally, please do not move it out of the src folder.
+###Package name
+The package name for this project is com.myjava.app
+```java
+package com.myjava.app
+```
+
 ## About archive fold
 Because the JAVA files in this project are separate, in order to save performance, those JAVA files that are temporarily not needed are placed in the archive folder
 But if you want to compile and run, the JAVA files in the archive folder can execute the following commands
