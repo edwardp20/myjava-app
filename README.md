@@ -12,7 +12,7 @@ This is a small project I created while learning Java programming.
 
 >**Attention**: This project uses GPLv3 license to distribute source code, please keep the software always free
 
-> [!lastest Release]
+> [!NOTE]
 >
 > The latest Release:
 >
