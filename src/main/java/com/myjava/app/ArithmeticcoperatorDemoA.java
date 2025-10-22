@@ -13,6 +13,9 @@ public class ArithmeticcoperatorDemoA{
         System.out.println('v'+12);
         System.out.println('v'+12+"gggg");
         //证明成功，双引号类型是string 单引号类型是char
+        int c=18;
+        String k=c+"";
+        System.out.println(k);
         
         
         
