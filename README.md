@@ -16,7 +16,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **5**
+> **6**
 
 
 ## Requirements
