@@ -1,6 +1,7 @@
 # myjava-app
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
+[![许可证: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/)
+[![Maven](https://img.shields.io/badge/Maven-3.9.11-blue.svg)](https://maven.apache.org/)
 
 
 ## 项目概述
