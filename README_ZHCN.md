@@ -66,3 +66,7 @@ package com.myjava.app
 ```bash
 cd archive && mv 你需要的Java文件.java ../src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
 ```
+> [!CAUTION]
+> 
+> 本项目使用Openjdk编译
+>
