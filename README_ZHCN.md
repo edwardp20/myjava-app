@@ -68,5 +68,5 @@ cd archive && mv 你需要的Java文件.java ../src/main/java/com/myjava/app/ &&
 ```
 > [!CAUTION]
 > 
-> 本项目使用Openjdk编译
+> 本项目使用OpenJDK编译
 >
