@@ -15,7 +15,7 @@
 >
 > 最新版本是:
 >
-> **9**
+> **10**
 
 ## 环境要求
 - Java 25
@@ -51,10 +51,14 @@ mvn test
 
 ### 包名
 
-本项目的包名为 com.myjava.app
+本项目的包名为 com.myjava.app 和 com.myjava.tests
 
 ```java
 package com.myjava.app
+```
+or
+```java
+package com.myjava.tests
 ```
 
 ## 关于归档文件夹

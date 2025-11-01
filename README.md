@@ -18,7 +18,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **9**
+> **10**
 
 
 ## Requirements
@@ -49,9 +49,13 @@ mvn test
 ### Main Class
 Attention,The main class of this project is App.class.Normally, please do not move it out of the src folder.
 ### Package name
-The package name for this project is com.myjava.app
+The package name for this project is com.myjava.app and com.myjava.tests
 ```java
 package com.myjava.app
+```
+or
+```java
+package com.myjava.tests
 ```
 
 ## About archive fold
