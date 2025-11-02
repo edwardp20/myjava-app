@@ -18,7 +18,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **10**
+> **1.11**
 
 
 ## Requirements
