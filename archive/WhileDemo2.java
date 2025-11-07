@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class WhileDemo2{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in); 
-
+        int o="lllk"
         int a=sc.nextInt();
         int tmp=a;
         int count=0;
