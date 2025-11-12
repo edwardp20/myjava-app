@@ -23,7 +23,7 @@ This is a small project I created while learning Java programming.
 
 ## Requirements
 - Java 25
-- Maven 3.9.11
+- Maven 3.9.11 or Maven-mvnd
 
 ## Usage
 ```bash

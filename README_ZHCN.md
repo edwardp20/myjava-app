@@ -19,7 +19,7 @@
 
 ## 环境要求
 - Java 25
-- Maven 3.9.11
+- Maven 3.9.11 或 Maven-mvnd
 
 ## 使用方法
 ```bash
