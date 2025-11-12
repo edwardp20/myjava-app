@@ -1,5 +1,6 @@
 package com.myjava.app;
 
+
 public class SwitchDemo1{
     public static void main(String[] args){
         String noodles="美味人类面";
