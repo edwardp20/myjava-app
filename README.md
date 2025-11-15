@@ -12,13 +12,14 @@ This is a small project I created while learning Java programming.
 
 
 
->**Attention**: This project uses GPLv3 license to distribute source code, please keep the software always free
+>[!WARNING]
+> This project uses GPLv3 license to distribute source code, please keep the software always free
 
 > [!NOTE]
 >
 > The latest Release:
 >
-> **1.14**
+> **1.14.1**
 
 
 ## Requirements
