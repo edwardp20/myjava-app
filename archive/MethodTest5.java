@@ -14,6 +14,7 @@ public class MethodTest5{
         boolean result=searchForNumber(arr,youWantToSearch);
         IO.println(result);
         traverseList(arr);
+        sc.close(); 
     }
     public static boolean searchForNumber(int[] arr,int num){
         for(int i=0;i<arr.length;i++){

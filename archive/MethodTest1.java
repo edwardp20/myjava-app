@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 
 public class MethodTest1{
-    public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        double c=sc.nextDouble();
-        areaS(c);
+    public static void main(String[] args){ 
+            Scanner sc=new Scanner(System.in);
+            double c=sc.nextDouble();
+            areaS(c);
+            sc.close();
     }
     public static void areaS(double a){
         double b=a*a*3.14;
