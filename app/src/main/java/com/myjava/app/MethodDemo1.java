@@ -7,7 +7,12 @@ package com.myjava.app;
 public class MethodDemo1{
     public static void main(String[] args){
         playGame();
-    }
+        System.out.println(111);
+        IO.println("ssssssssssssssssss");
+        playGame();
+         
+        
+       }
     public static void playGame(){
         System.out.println("hhahuauauauauwjwiwiaiaiiaia");
     }

@@ -1,5 +1,4 @@
 package com.myjava.app;
-import java.util.Scanner;
 
 
 /**
