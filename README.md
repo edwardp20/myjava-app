@@ -24,26 +24,16 @@ This is a small project I created while learning Java programming.
 
 ## Requirements
 - Java 25
-- Maven 3.9.11 or Maven-mvnd
+- Gradle 9.2.1
 
 ## Usage
 ```bash
-# Compile
-mvn compile
-
-# Run main class
-mvn exec:java -Dexec.mainClass="com.myjava.app.App"
-
-# Package
-mvn package
-
-# Test
-mvn test
+./gradlew shadowJar
 ```
 ## Features
 - Basic Java syntax
 - OOP examples
-- Maven configuration
+- Gradle configuration
 - JUnit tests
 
 ## Main Class & Package name
@@ -63,7 +53,7 @@ package com.myjava.tests
 Because the JAVA files in this project are separate, in order to save performance, those JAVA files that are temporarily not needed are placed in the archive folder
 But if you want to compile and run, the JAVA files in the archive folder can execute the following commands
 ```bash
-cd archive && mv The-Java-file-you-need.java ../src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
+cd archive && mv The-Java-file-you-need.java ../app/src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
 ```
 > [!CAUTION]
 >
