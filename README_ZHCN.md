@@ -1,7 +1,7 @@
 # myjava-app
 [![许可证: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/)
-[![Maven](https://img.shields.io/badge/Maven-3.9.11-blue.svg)](https://maven.apache.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-9.2.1-blue.svg)](https://www.gradle.org/)
 
 
 ## 项目概述
@@ -20,28 +20,21 @@
 
 ## 环境要求
 - Java 25
-- Maven 3.9.11 或 Maven-mvnd
+- Gradle 9.2.1
 
 ## 使用方法
 ```bash
 # 编译
-mvn compile
-
-# 运行主类
-mvn exec:java -Dexec.mainClass="com.myjava.app.App"
-
-# 打包
-mvn package
-
-# 测试
-mvn test
+./gradlew compileJava
+#打包
+./gradlew shadowJar
 ```
 
 ## 功能特性
 
 - 基础 Java 语法
 - 面向对象编程示例
-- Maven 配置
+- Gradle 配置
 - JUnit 测试
 
 ## 主类与包名
@@ -69,7 +62,7 @@ package com.myjava.tests
 但如果您想要编译和运行，archive 文件夹中的 JAVA 文件可以执行以下命令：
 
 ```bash
-cd archive && mv 你需要的Java文件.java ../src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
+cd archive && mv 你需要的Java文件.java ../app/src/main/java/com/myjava/app/ && cd .. && ./gradlew compileJava && ./gradlew shadowJar
 ```
 > [!CAUTION]
 > 

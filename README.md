@@ -28,7 +28,10 @@ This is a small project I created while learning Java programming.
 
 ## Usage
 ```bash
+#package
 ./gradlew shadowJar
+#compile
+./gradlew compileJava
 ```
 ## Features
 - Basic Java syntax
@@ -53,7 +56,7 @@ package com.myjava.tests
 Because the JAVA files in this project are separate, in order to save performance, those JAVA files that are temporarily not needed are placed in the archive folder
 But if you want to compile and run, the JAVA files in the archive folder can execute the following commands
 ```bash
-cd archive && mv The-Java-file-you-need.java ../app/src/main/java/com/myjava/app/ && cd .. && mvn compile && mvn package
+cd archive && mv The-Java-file-you-need.java ../app/src/main/java/com/myjava/app/ && cd .. && ./gradlew compileJava && ./gradlew shadowJar
 ```
 > [!CAUTION]
 >
