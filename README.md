@@ -10,7 +10,9 @@ This is a small project I created while learning Java programming.
 
 > **Note**: This is primarily a personal learning repository. The code here might be simplistic or experimental. Feel free to borrow any parts useful for your own learning.
 
-
+> [!TIP]
+> If you want to build an older version of the project(<=1.14.1),
+> please use Maven
 
 >[!WARNING]
 > This project uses GPLv3 license to distribute source code, please keep the software always free
