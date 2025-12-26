@@ -1,4 +1,4 @@
-package com.myjava.tests;
+package com.myjava.tests.numberEncryptionTests;
 
 
 
