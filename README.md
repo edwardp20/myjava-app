@@ -7,6 +7,7 @@
 
 ## Overview
 This is a small project I created while learning Java programming.
+https://waqinguniversity.dpdns.org/easteregg/trex/dino.html easteregg!!!
 
 > **Note**: This is primarily a personal learning repository. The code here might be simplistic or experimental. Feel free to borrow any parts useful for your own learning.
 
