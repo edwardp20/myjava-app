@@ -8,7 +8,8 @@ public class App {
         System.out.println("本程序目前有Copper,Version,ArithmeticcoperatorDemo,App(now),ArithmeticcoperatorDemo2");
     }
 
-    public static void getGreeting() {
+    public String getGreeting() {
         IO.println("mmmmmm");
+        return "hello";
     }
 }
