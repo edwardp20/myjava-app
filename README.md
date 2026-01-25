@@ -26,7 +26,7 @@ This is a small project I created while learning Java programming.
 
 ## Requirements
 - Java 25
-- Gradle 9.2.1
+- Gradle 9.3.0
 
 ## Usage
 ```bash
