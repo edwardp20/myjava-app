@@ -24,8 +24,8 @@ Il s'agit d'un petit projet que j'ai créé en apprenant la programmation Java.
 
 ## Prérequis
 
-· Java 25
-· Gradle 9.3.0
+- Java 25
+- Gradle 9.3.0
 
 ## Utilisation
 
@@ -38,12 +38,12 @@ Il s'agit d'un petit projet que j'ai créé en apprenant la programmation Java.
 
 ## Fonctionnalités
 
-· Syntaxe Java de base
-· Exemples de Programmation Orientée Objet (POO)
-· Configuration Gradle
-· Tests JUnit
+- Syntaxe Java de base
+- Exemples de Programmation Orientée Objet (POO)
+- Configuration Gradle
+- Tests JUnit
 
-# Classe principale & Nom du package
+## Classe principale & Nom du package
 
 ### Classe principale
 
