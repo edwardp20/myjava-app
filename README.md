@@ -4,6 +4,7 @@
 [![Gradle](https://img.shields.io/badge/Gradle-9.2.1-blue.svg)](https://www.gradle.org/)
 
 [简体中文](./README_ZHCN.md)
+[français](./README_FRFR.md)
 
 ## Overview
 This is a small project I created while learning Java programming.
@@ -21,7 +22,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **1.14.1**
+> **1.14.2**
 
 
 ## Requirements

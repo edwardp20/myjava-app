@@ -47,7 +47,7 @@ application {
 shadowJar {
     mergeServiceFiles()
     archiveBaseName.set('myjava')  // jar 文件的基本名字
-    archiveVersion.set('1.14.2')  // jar 文件的版本号
+    archiveVersion.set('1.14.3-snapshot1')  // jar 文件的版本号
 	archiveClassifier.set('')  // jar
 }
 
