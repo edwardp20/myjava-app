@@ -1,4 +1,4 @@
-package com.myjava.app.Oops.This;
+package com.myjava.app.oops.thisexample;
 /**
  * This - 一个This关键字类
  * 

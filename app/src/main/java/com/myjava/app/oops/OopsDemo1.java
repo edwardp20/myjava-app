@@ -1,4 +1,4 @@
-package com.myjava.app.Oops;
+package com.myjava.app.oops;
 
 
 public class OopsDemo1{

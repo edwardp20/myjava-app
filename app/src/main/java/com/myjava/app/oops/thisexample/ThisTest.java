@@ -1,4 +1,4 @@
-package com.myjava.app.Oops.This;
+package com.myjava.app.oops.thisexample;
 /**
  * ThisTest - This关键字测试类
  * 

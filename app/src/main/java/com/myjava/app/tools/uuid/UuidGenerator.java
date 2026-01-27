@@ -1,4 +1,4 @@
-package com.myjava.app.Tools.Uuid;
+package com.myjava.app.tools.uuid;
 
 import java.util.Scanner;
 

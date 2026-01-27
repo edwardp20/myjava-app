@@ -1,4 +1,4 @@
-package com.myjava.app.Tools;
+package com.myjava.app.tools;
 
 import java.util.Scanner;
 import java.util.Random;
