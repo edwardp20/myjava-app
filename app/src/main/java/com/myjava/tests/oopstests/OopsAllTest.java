@@ -20,9 +20,11 @@ package com.myjava.tests.oopstests;
 public class OopsAllTest {
     public static void main(String[] args) {
         //定义两个角色
-        OopsAll r1 = new OopsAll("戚雨杨",100);
-        OopsAll r2 = new OopsAll("张辰曦",110);
+        OopsAll r1 = new OopsAll("戚雨杨",100,'女');
+        OopsAll r2 = new OopsAll("张辰曦",100,'男');
         //开始战斗!!!!
+        r1.showInformation();
+        r2.showInformation();
         while(true) {
             r1.attack(r2);
             //检查被攻击的那个人是否死了
