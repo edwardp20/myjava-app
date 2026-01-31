@@ -19,4 +19,13 @@ if [ $? -eq 0 ]; then
 else
     echo "提交失败！"
 fi
-git push origin main
+
+
+# 带提示的输入，默认值为main
+read -p "请输入要推送的分支名（默认：main）：" branch_name
+
+# 如果输入为空或只有空格，使用默认值
+branch_name=${branch_name:-main}
+
+echo "正在推送到分支：$branch_name"
+git push origin "$branch_name"
