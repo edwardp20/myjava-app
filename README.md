@@ -22,7 +22,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **1.14.2**
+> **1.15**
 
 
 ## Requirements
