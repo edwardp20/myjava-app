@@ -65,6 +65,10 @@ package com.myjava.tests
 ```bash
 cd archive && mv 你需要的Java文件.java ../app/src/main/java/com/myjava/app/ && cd .. && ./gradlew compileJava && ./gradlew shadowJar
 ```
+# 如何获取该项目的可执行文件？
+1.自行构建
+2.去https://github.com/edwardp20/myjava-app/releases/
+3.去https://github.com/edwardp20/myjava-app/actions/
 > [!CAUTION]
 > 
 > 本项目使用OpenJDK编译
