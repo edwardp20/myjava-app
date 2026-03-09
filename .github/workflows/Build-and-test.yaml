@@ -1,0 +1,23 @@
+name: Build and test
+
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Build the project
+        run: |
+          sudo apt install openjdk-25-jdk
+          chmod +x gradlew
+          ./gradlew compileJava shadowJar
+
+      - name: Upload build directory
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: app/build
