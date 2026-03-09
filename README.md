@@ -61,9 +61,8 @@ But if you want to compile and run, the JAVA files in the archive folder can exe
 ```bash
 cd archive && mv The-Java-file-you-need.java ../app/src/main/java/com/myjava/app/ && cd .. && ./gradlew compileJava && ./gradlew shadowJar
 ```
-英文翻译：
 
-# How to obtain the executable file of this project?
+## How to obtain the executable file of this project?
 
 1. Build it yourself
 2. Go to https://github.com/edwardp20/myjava-app/releases/

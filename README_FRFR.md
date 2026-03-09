@@ -72,7 +72,7 @@ Cependant, si vous souhaitez compiler et exécuter les fichiers JAVA du dossier 
 ```bash
 cd archive && mv Le-fichier-JAVA-dont-vous-avez-besoin.java ../app/src/main/java/com/myjava/app/ && cd .. && ./gradlew compileJava && ./gradlew shadowJar
 ```
-# Comment obtenir le fichier exécutable de ce projet ?
+## Comment obtenir le fichier exécutable de ce projet ?
 
 1. Construisez-le vous-même
 2. Allez sur https://github.com/edwardp20/myjava-app/releases/
