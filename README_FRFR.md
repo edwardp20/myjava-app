@@ -2,6 +2,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.4.0-blue.svg)](https://www.gradle.org/)
+[![CI](https://github.com/edwardp20/myjava-app/actions/workflows/build-and-test.yaml/badge.svg)]
 ## Aperçu
 
 Il s'agit d'un petit projet que j'ai créé en apprenant la programmation Java.
