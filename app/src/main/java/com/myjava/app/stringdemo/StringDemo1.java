@@ -1,7 +1,7 @@
-package com.myjava.tests.oopstests.test8;
+package com.myjava.app.stringdemo;
 /**
-* StudentTest2 - 
-* 
+* StringDemo1 - 
+*
 * Copyright (C) 2026 edwardp20 <zhangxixi201268@outlook.com>
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -17,17 +17,14 @@ package com.myjava.tests.oopstests.test8;
 * You should have received a copy of the GNU General Public License
 * along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
-public class StudentTest2 {
+public class StringDemo1 {
     public static void main(String[] args) {
-        //1.创建一个存储学生的arr
-        Student[] arr = new Student[3];
-        //2.众所周知，学生管理系统是需要学生的
-        Student stu1 = new Student("zhangsan",1,23);
-        Student stu2 = new Student("lisi",2,24);
-        Student stu3 = new Student("wangwu",3,22);
-        //3.把祖国的花朵放到数组里
-        arr[0] = stu1;
-        arr[1] = stu2;
-        arr[2] = stu3;
+        //1.创建两个string对象
+        String str1 = new String("abc");
+        String str2 = "abc";
+        //2.==
+        System.out.println(str1 == str2);
+        //3.equal
+        System.out.println(str1.equals(str2));
     }
 }
