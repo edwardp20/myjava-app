@@ -1,6 +1,6 @@
 # myjava-app
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/)
+[![Java](https://img.shields.io/badge/Java-26-orange.svg)](https://openjdk.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.4.0-blue.svg)](https://www.gradle.org/)
 [![CI](https://github.com/edwardp20/myjava-app/actions/workflows/Build-and-test.yaml/badge.svg)](https://github.com/edwardp20/myjava-app/actions/workflows/Build-and-test.yaml/)
 
@@ -27,7 +27,7 @@ This is a small project I created while learning Java programming.
 
 
 ## Requirements
-- Java 25
+- Java 26
 - Gradle 9.4.0
 
 ## Usage
