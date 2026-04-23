@@ -6,6 +6,7 @@
 
 [简体中文](./README_ZHCN.md)
 [français](./README_FRFR.md)
+[日本語](./README_JAJP.md)
 
 ## Overview
 This is a small project I created while learning Java programming.
