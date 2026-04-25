@@ -24,7 +24,7 @@ This is a small project I created while learning Java programming.
 >
 > The latest Release:
 >
-> **1.15**
+> **1.15.1**
 
 
 ## Requirements

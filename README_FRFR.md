@@ -20,7 +20,7 @@ Il s'agit d'un petit projet que j'ai créé en apprenant la programmation Java.
 >
 > La dernière version publiée (Release) :
 >
-> **1.15**
+> **1.15.1**
 >
 
 ## Prérequis

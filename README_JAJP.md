@@ -3,10 +3,6 @@
 [![Java](https://img.shields.io/badge/Java-26-orange.svg)](https://openjdk.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.4.0-blue.svg)](https://www.gradle.org/)
 [![CI](https://github.com/edwardp20/myjava-app/actions/workflows/Build-and-test.yaml/badge.svg)](https://github.com/edwardp20/myjava-app/actions/workflows/Build-and-test.yaml/)
-
-[简体中文](./README_ZHCN.md)
-[français](./README_FRFR.md)
-
 ## 概要
 これは、Javaプログラミングを学習中に作成した小さなプロジェクトです。
 
@@ -23,7 +19,7 @@
 >
 > 最新リリース:
 >
-> **1.15**
+> **1.15.1**
 
 
 ## 要件
