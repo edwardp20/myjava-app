@@ -7,7 +7,7 @@ public class App {
         System.out.println("--help 输出帮助");
         if(args.length > 0) {
             if(args[0].equals("--version")) {
-                System.out.println("1.15.1");
+                System.out.println("1.15.2-snapshot1");
                 System.out.println("by edwardp20");
             } else if(args[0].equals("--help")) {
                 System.out.println("--help 输出该帮助");
